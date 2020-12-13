@@ -14,7 +14,6 @@ namespace UnitTestingExercise
             return num1 + num2 + num3;
         }
 
-
         // Create a Subtract method that passes 2 integers
         // Keep track of which number is getting passed as minuend and subtrahend
         public int Subtract(int minuend, int subtrahend)
@@ -33,9 +32,5 @@ namespace UnitTestingExercise
         {
             return num1 / num2;
         }
-
-        // Create 2 methods that will utilize the [Fact] tests you wrote
-
-
     }
 }

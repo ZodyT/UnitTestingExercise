@@ -74,26 +74,5 @@ namespace UnitTestingExercise.Tests
             //Assert
             Assert.Equal(expected, actual);
         }
-
-        [Fact]
-        public void YourMethodName()
-        {
-            //Arrange
-
-            //Act
-
-            //Assert
-
-        }
-
-        [Fact]
-        public void YourMethodName2()
-        {
-            //Arrange
-
-            //Act
-
-            //Assert
-        }
     }
 }
